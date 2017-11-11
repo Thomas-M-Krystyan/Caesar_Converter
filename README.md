@@ -7,7 +7,7 @@ Srcipt for encoding / decoding text messages by using Caesar's algorithm.
 ---
 ### Images:
 
-![CaesarAlgorithm](https://github.com/Thomas-M-Krystyan/Caesar_Converter/blob/master/Caesar_Converter.py)
+![CaesarAlgorithm](https://github.com/Thomas-M-Krystyan/Caesar_Converter/blob/master/Caesar_Converter%20-%20FlowChart.png)
 
 ---
 ### Summary:
